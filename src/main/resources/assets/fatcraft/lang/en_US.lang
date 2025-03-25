@@ -1,0 +1,13 @@
+item.cured_rotten_flesh.name=Cured Rotten Flesh
+item.Doll.name=Patchy
+item.quiver.name=Quiver
+
+tile.oreCharcoal.name=Charcoal Ore
+tile.waterDetector.name=Water Detector
+tile.rope.name=Rope
+#tile.gearBlock
+tile.lapisTorch.name=Lapis Lazuli Torch
+tile.conveyor.name=asshole cunt
+
+
+itemGroup.FatCraft=FatCraft
